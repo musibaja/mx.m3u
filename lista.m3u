@@ -127,7 +127,7 @@ https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo01.php?tokennn=Regio&c=2507&f=
 https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo01.php?tokennn=Regio&c=3105&f=.m3u8
 #EXTINF:-1  group-title="Vix",  Media +
 http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=301&pid=301&token=SrRegio&f=.m3u8
-#EXTINF:-1  group-title="Vix",  Media +
+#EXTINF:-1  group-title="lista  mx",    Foro TV
 http://regioplay.xyz/php/SR_REGIO_201023_/vix.php?c=301&pid=301&token=SrRegio&f=.m3u8
 #EXTINF:-1  group-title="Vix",  Retro Peli
 http://regioplay.xyz/php/SR_REGIO_201023_/vix.php?c=304&pid=304&token=SrRegio&f=.m3u8
