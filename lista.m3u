@@ -128,7 +128,7 @@ https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo01.php?tokennn=Regio&c=3105&f=
 #EXTINF:-1  group-title="Vix",  Media +
 http://regioplay.xyz/php/SR_REGIO_701023_/vix.php?c=301&pid=301&token=SrRegio&f=.m3u8
 #EXTINF:-1  group-title="lista  mx",    Foro TV
-https://live-streams-notusa.televisa.com/channel02-b/index.m3u8
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?
 #EXTINF:-1  group-title="Vix",  Retro Peli
 http://regioplay.xyz/php/SR_REGIO_201023_/vix.php?c=304&pid=304&token=SrRegio&f=.m3u8
 #EXTINF:-1 group-title="Lista MX", 12 tijuana
