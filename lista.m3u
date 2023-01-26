@@ -122,7 +122,7 @@ https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo01.php?tokennn=Regio&c=2379&f=
 #EXTINF:-1 group-title="Lista MX", TLC
 https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo01.php?tokennn=Regio&c=2380&f=.m3u8
 #EXTINF:-1 group-title="Lista MX", AXN
-rtp://@239.192.250.162:2000?payload=mp2t/rtp
+http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/775.m3u8
 #EXTINF:-1 group-title="Lista MX", HGTV
 https://regioplay.xyz/php/SR_REGIO_701023_/tpnuevo01.php?tokennn=Regio&c=3105&f=.m3u8
 #EXTINF:-1  group-title="Vix",  Media +
