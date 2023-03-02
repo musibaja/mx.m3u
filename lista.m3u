@@ -203,3 +203,6 @@ http://181.209.173.10:8000/play/a00r/index.m3u8
 http://181.209.173.10:8000/play/a00c/index.m3u8
 #EXTINF:-1,12 tijuana
 https://youtu.be/co9rvZQWmbg
+
+#EXTINF:-1 tvg-logo="https://rndserv.xyz/img/canal6.png", Multimedios CDMX
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8?PlaylistM3UCL
