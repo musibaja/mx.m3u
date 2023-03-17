@@ -1,10 +1,8 @@
 #EXTM3U
-#EXTINF:-1,TELEFORMULA
-https://tinyurl.com/ywwztywd
 #EXTINF:-1,AXN
-https://tinyurl.com/4nface7b
-#EXTINF:-1,TNT series
-https://tinyurl.com/p3anwv6d
+http://201.139.174.68:8001/play/a008/index.m3u8
+#EXTINF:-1,C9N
+http://201.139.174.68:8001/play/a012/index.m3u8
 #EXTINF:-1,Cinemax
 http://201.139.174.68:8001/play/a006/index.m3u8
 #EXTINF:-1,Claro Cinema
