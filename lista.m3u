@@ -60,3 +60,15 @@ http://clubtv.link/2320mar/top733/geomex2.php?c=421&f=.m3u8
 http://clubtv.link/2320mar/top733/geomex2.php?c=424&f=.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",AZ CINEMA 
 http://clubtv.link/2320mar/top733/geomex2.php?c=425&f=.m3u8
+
+
+#EXTINF:-1 group-title="CINE Y SERIES",HBO
+http://clubtv.link/2320mar/top733/lista2.php?c=952
+#EXTINF:-1 group-title="CINE Y SERIES",HBO +
+http://clubtv.link/2320mar/top733/lista2.php?c=953
+#EXTINF:-1 group-title="CINE Y SERIES",HBO 2
+http://clubtv.link/2320mar/top733/lista2.php?c=954
+#EXTINF:-1 group-title="CINE Y SERIES",HBO
+http://clubtv.link/2320mar/top733/lista2.php?c=956
+#EXTINF:-1 group-title="CINE Y SERIES",Hbo Xtreme
+http://clubtv.link/2320mar/top733/lista2.php?c=957
