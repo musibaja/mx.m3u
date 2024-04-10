@@ -155,3 +155,5 @@ http://181.78.105.146:2000/play/a08p
 http://181.78.105.146:2000/play/a098
 #EXTINF
 https://pluto.tv/da/live-tv/63eb947c4e83e70008ab877b
+#EXTINF:-1 channel-id="pluto-6181404ef48321000797bc41" tvg-id="6181404ef48321000797bc41" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png" tvg-chno="919" group-title="Infantil" , iCarly
+https://r.mjh.nz/PlutoTV/6181404ef48321000797bc41-alt.m3u8
