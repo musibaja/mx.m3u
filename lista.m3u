@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="Canal33Tijuana.mx" tvg-logo="https://iili.io/JCt1Nbn.png" group-title="General;News",Canal 33 Tijuana
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CNRTelevision.mx" tvg-logo="https://i.imgur.com/HI5GOfF.png" group-title="General",CNR Television
+https://stream.oursnetworktv.com/latin/cnrtelevision/playlist.m3u8
+
 #EXTINF:-1,21 - 252 ComedyC
 http://181.78.105.146:2000/play/a04a
 #EXTINF:-1,23 - 290 CartoonNetwork
