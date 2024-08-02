@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,01 - CANAL 33 TIJUANA
+#EXTINF:-1 tvg-id="Canal33Tijuana.mx" tvg-logo="https://iili.io/JCt1Nbn.png" group-title="General;News",Canal 33 Tijuana
 https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist.m3u8
 
 #EXTINF:-1,21 - 252 ComedyC
