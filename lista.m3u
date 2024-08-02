@@ -5,6 +5,9 @@ https://5f2c1b0d880e5.streamlock.net/canal33tijuana/videocanal33tijuana/playlist
 #EXTINF:-1 tvg-id="CNRTelevision.mx" tvg-logo="https://i.imgur.com/HI5GOfF.png" group-title="General",CNR Television
 https://stream.oursnetworktv.com/latin/cnrtelevision/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Movies",De Pelicula Latin America
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
+
 #EXTINF:-1,21 - 252 ComedyC
 http://181.78.105.146:2000/play/a04a
 #EXTINF:-1,23 - 290 CartoonNetwork
@@ -16,8 +19,8 @@ http://181.78.105.146:2000/play/a014
 #EXTINF:-1,29-236 DH&H
 http://181.78.105.146:2000/play/a03g
 #EXTINF:-1,30-214 TNTSE
-#http://190.110.163.218:8000/play/a01i
-http://181.78.105.146:2000/play/a00m
+http://190.110.163.218:8000/play/a01i
+#http://181.78.105.146:2000/play/a00m
 #EXTINF:-1,31-370 TNT
 http://181.78.105.146:2000/play/a018
 #EXTINF:-1,208 SONY
