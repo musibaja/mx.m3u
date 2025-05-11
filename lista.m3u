@@ -2,3 +2,5 @@
 
 #EXTINF:-1 group-title="-",Universal
 http://190.60.56.41:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="-",AXN
+http://38.44.109.41:8003/play/a031/index.m3u8
