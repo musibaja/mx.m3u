@@ -1,24 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="-",Universal
-http://190.60.56.41:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="-",AXN
-http://38.44.109.41:8003/play/a031/index.m3u8
-#EXTINF:-1 group-title="-",TNT Series
-http://38.44.109.41:8003/play/a01x/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://45.71.37.194:8010/play/a0bm/index.m3u8
-#EXTINF:-1,TNT Series
-http://45.71.37.194:8010/play/a0m6/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://45.71.37.194:8010/play/a0d1/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://45.71.37.194:8010/play/a0ma/index.m3u8
-#EXTINF:-1,Studio Universal HD
-http://45.71.37.194:8010/play/a0hm/index.m3u8
-#EXTINF:-1,Studio Universal HD
-http://45.71.37.194:8010/play/a0m5/index.m3u8
-#EXTINF:-1,AXN
-http://45.71.37.194:8010/play/a0n0/index.m3u8
-#EXTINF:-1,AXN HD
-http://45.71.37.194:8010/play/a0m2/index.m3u8
+#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=1890000,BANDWIDTH=2360000,RESOLUTION=1920x1080,FRAME-RATE=29.970,CODECS="avc1.42c01f,mp4a.40.2",CLOSED-CAPTIONS=NONE
+tracks-v1a1/mono.m3u8
