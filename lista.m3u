@@ -89,3 +89,5 @@ http://152.230.229.66:8000/play/a00x/index.m3u8
 160.19.201.65:8000/play/a083
 #EXTINF:-1 group-title="-",UNIVERSAL CHANNEL HD
 160.19.201.65:8000/play/a08b
+#EXTINF:-1 group-title="-",Universal
+160.19.201.65:8000/play/a084
