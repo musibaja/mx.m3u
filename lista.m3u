@@ -103,3 +103,5 @@ http://143.255.87.30:8003/play/a047/index.m3u8
 http://143.255.87.30:8003/play/a01x/index.m3u8 
 #EXTINF:0,AXN HD 
 http://143.255.87.30:8003/play/a01u/index.m3u8 
+#EXTINF:-1 group-title="-",TNT Series HD
+hhtp://152.200.150.150:8000/play/a0ef/index.m3u8
