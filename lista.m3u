@@ -7,3 +7,8 @@ http://38.44.109.41:8003/play/a031/index.m3u8
 http://38.44.109.41:8003/play/a03e/index.m3u8
 #EXTINF:-1 group-title="-",TNT Series
 http://38.44.109.41:8003/play/a01x/index.m3u8
+
+#EXTINF:-1 group-title="-",TNT Series
+http://newkalaplay.xyz:8080/971467548tv2/808pyeu/59457
+#EXTINF:-1 group-title="-",TNT Series
+http://newkalaplay.xyz:8080/971467548tv2/808pyeu/59547
