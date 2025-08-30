@@ -4,7 +4,7 @@ http:190.25.157.70:8000/play/a0gb
 #EXTINF:-1 group-title="-",AXN
 http://38.44.109.41:8003/play/a031/index.m3u8
 #EXTINF:-1 group-title="-",Studio Universal
-http://38.44.109.41:8003/play/a03e/index.m3u8
+http://190.25.157.70:8000/play/a0gb
 #EXTINF:-1 group-title="-",TNT Series
 http://190.25.157.70:8000/play/a0gd
 
