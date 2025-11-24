@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",Universal
-http://45.228.234.30:16000/play/a023/index.m3u8 
-#EXTINF:-1 group-title="-",AXN
-http://200.60.124.19:29000/play/a027
-#EXTINF:-1 group-title="-",Studio Universal
-http://179.56.190.187:8000/play/a18z/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://38.97.240.11:8000/play/a0gh/index.m3u8 
+#EXTINF:-1,AXN
+http://38.97.240.11:8000/play/a0li/index.m3u8
+#EXTINF:-1,Universal
+http://38.97.240.11:8000/play/a0jz/index.m3u8
 #EXTINF:-1 group-title="-",TNT Series
 http://181.188.216.5:18000/play/a0ob/index.m3u8
-#EXTINF:-1,TNT Series
-http://179.56.190.187:8000/play/a199/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://38.97.240.11:8000/play/a0gl/index.m3u8
 #EXTINF:-1,TNT series
 http://181.188.216.5:18000/play/a0fa/index.m3u8
 
