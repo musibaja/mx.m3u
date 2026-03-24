@@ -6,7 +6,7 @@ http://38.97.240.11:8000/play/a0li/index.m3u8
 #EXTINF:-1,Universal
 http://38.97.240.11:8000/play/a0jz/index.m3u8
 #EXTINF:-1 group-title="-",TNT Series
-http://18190.115.9.175:8000/play/a0km/index.m3u8
+http://190.115.9.175:8000/play/a0km/index.m3u8
 #EXTINF:-1,TNT Series HD
 http://38.97.240.11:8000/play/a0gl/index.m3u8
 #EXTINF:-1,TNT series
