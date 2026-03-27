@@ -2,11 +2,11 @@
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://148.230.28.85:8002/play/067 
 #EXTINF:-1,AXN
-http://38.97.240.11:8000/play/a0li/index.m3u8
+181.189.159.131:8000/play/a0iy/index.m3u8 
 #EXTINF:-1,Universal
-http://38.97.240.11:8000/play/a0jz/index.m3u8
+http://181.189.159.131:8000/play/a0km/index.m3u8 
 #EXTINF:-1 group-title="-",TNT Series
-http://190.115.9.175:8000/play/a0km/index.m3u8
+http://181.189.159.131:8000/play/a0ih/index.m3u8 
 #EXTINF:-1,TNT Series HD
 http://38.97.240.11:8000/play/a0gl/index.m3u8
 #EXTINF:-1,TNT series
