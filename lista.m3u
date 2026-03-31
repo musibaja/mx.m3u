@@ -4,7 +4,7 @@ http://148.230.28.85:8002/play/067
 #EXTINF:-1,AXN
 http://170.82.113.51:8899/play/a0ih/index.m3u8 
 #EXTINF:-1,Universal
-http://181.189.159.131:8000/play/a0km/index.m3u8 
+http://170.82.113.51:8899/play/a0ee/index.m3u8 
 #EXTINF:-1 group-title="-",TNT Series
 http://181.189.159.131:8000/play/a0ih/index.m3u8 
 #EXTINF:-1,TNT Series HD
