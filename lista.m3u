@@ -5,8 +5,8 @@ http://148.230.28.85:8002/play/067
 http://170.82.113.51:8899/play/a0ih/index.m3u8 
 #EXTINF:-1,Universal
 http://170.82.113.51:8899/play/a0ee/index.m3u8 
-#EXTINF:-1 group-title="-",TNT Series
-http://181.189.159.131:8000/play/a0ih/index.m3u8 
+#EXTINF:-1 group-title="-",STUDIO UNIVERSAL
+http://170.82.113.51:8899/play/a0m1/index.m3u8 
 #EXTINF:-1,TNT Series HD
 http://38.97.240.11:8000/play/a0gl/index.m3u8
 #EXTINF:-1,TNT series
